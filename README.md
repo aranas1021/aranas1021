@@ -7,7 +7,7 @@ I'm Gazi Md Anas, a 2nd-year Computer Science student
 💡 *“Crafting logic and elegance in every line of code.”*
 
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /></picture>
+    <picture><img src="https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e" align="center" style="width: 100%" /></picture>
 </div>
 
 
@@ -107,3 +107,5 @@ I'm Gazi Md Anas, a 2nd-year Computer Science student
 
 <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
 </div>
+
+<p>Design inspired by <a href="https://github.com/Anas-Gazi/" > Anas Gazi</a> </p>
