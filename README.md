@@ -78,6 +78,8 @@ I'm Gazi Md Anas, a 2nd-year Computer Science student
    <img src="https://cdn.simpleicons.org/claude/61DAFB" height="45" title="Claude"/>
   <img src="https://cdn.simpleicons.org/googlegemini/61DAFB" height="45" title="Gemini"/>
   <img src="https://cdn.simpleicons.org/githubcopilot/61DAFB" height="45" title="GitHub Copilot"/>
+  <img src="./profile/codechef.svg" alt="CodeChef Stats" />
+<img src="./profile/gfg.svg" alt="GFG Stats" />
 </p>
 
 ------
